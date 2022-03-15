@@ -1,0 +1,39 @@
+﻿@inherits LayoutComponentBase
+
+<div class="bg-info text-white p-2">
+    <span class="navbar-brand m-lg-2">Bookstore Administration</span>
+</div>
+
+<div class="container-fluid">
+
+    <div class="row p-2">
+
+        <div class="col-3">
+
+            <div class="d-grid gap-2">
+                <NavLink class="btn btn-outline-primary" href="/admin/books"
+                         ActiveClass="btn-primary text-white" Match="NavLinkMatch.Prefix">Books</NavLink>
+                <NavLink class="btn btn-outline-primary" href="/admin/orders"
+                         ActiveClass="btn-primary text-white" Match="NavLinkMatch.Prefix">Orders</NavLink>
+            </div>
+
+            <br />
+            <!--Bootstrap extra #2-->
+            <dl>
+                <dt>Details</dt>
+                <dd>View the book details</dd>
+                <dt>Edit</dt>
+                <dd>Update the book details</dd>
+                <dt>Delete</dt>
+                <dd>Remove the book and its details</dd>
+            </dl>
+
+        </div>
+
+        <div class="col">
+            @Body
+        </div>
+
+    </div>
+
+</div>

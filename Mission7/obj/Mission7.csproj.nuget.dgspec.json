@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/minachia/Downloads/Mission7-Mission8/Mission7/Mission7.csproj": {}
+    "/Users/minachia/Documents/GitHub/Bookstore/Mission7/Mission7.csproj": {}
   },
   "projects": {
-    "/Users/minachia/Downloads/Mission7-Mission8/Mission7/Mission7.csproj": {
+    "/Users/minachia/Documents/GitHub/Bookstore/Mission7/Mission7.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/minachia/Downloads/Mission7-Mission8/Mission7/Mission7.csproj",
+        "projectUniqueName": "/Users/minachia/Documents/GitHub/Bookstore/Mission7/Mission7.csproj",
         "projectName": "Mission7",
-        "projectPath": "/Users/minachia/Downloads/Mission7-Mission8/Mission7/Mission7.csproj",
+        "projectPath": "/Users/minachia/Documents/GitHub/Bookstore/Mission7/Mission7.csproj",
         "packagesPath": "/Users/minachia/.nuget/packages/",
-        "outputPath": "/Users/minachia/Downloads/Mission7-Mission8/Mission7/obj/",
+        "outputPath": "/Users/minachia/Documents/GitHub/Bookstore/Mission7/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/minachia/.nuget/NuGet/NuGet.Config"
+          "/Users/minachia/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"

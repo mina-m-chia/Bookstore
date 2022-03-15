@@ -1,30 +1,40 @@
 ﻿<Properties StartupConfiguration="{A4C038C7-6503-412C-9C7F-98B5921AE46A}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Mission7/Migrations/20220311212600_Initial.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Mission7/Models/Purchase.cs">
     <Files>
-      <File FileName="Mission7/Models/SessionBasket.cs" Line="25" Column="30" />
-      <File FileName="Mission7/Models/Books.cs" Line="1" Column="1" />
-      <File FileName="Mission7/Models/Basket.cs" Line="54" Column="10" />
-      <File FileName="Mission7/Controllers/HomeController.cs" Line="27" Column="14" />
-      <File FileName="Mission7/Views/Shared/BookSummary.cshtml" Line="1" Column="1" />
-      <File FileName="Mission7/Pages/_ShoppingCartLayout.cshtml" Line="1" Column="1" />
-      <File FileName="Mission7/Pages/ShoppingCart.cshtml" Line="50" Column="92" />
-      <File FileName="Mission7/Pages/ShoppingCart.cshtml.cs" Line="48" Column="2" />
-      <File FileName="Mission7/Models/EFPurchaseRepository.cs" Line="27" Column="1" />
-      <File FileName="Mission7/Pages/PurchaseComplete.cshtml" Line="1" Column="1" />
-      <File FileName="Mission7/Controllers/PurchaseController.cs" Line="1" Column="1" />
-      <File FileName="Mission7/Models/ViewModels/BooksViewModel.cs" Line="1" Column="1" />
-      <File FileName="Mission7/Models/ViewModels/PageInfo.cs" Line="1" Column="1" />
-      <File FileName="Mission7/Views/Shared/Components/Types/Default.cshtml" Line="1" Column="1" />
-      <File FileName="Mission7/Views/Shared/Components/ShoppingCartSummary/Default.cshtml" Line="22" Column="7" />
-      <File FileName="Mission7/Migrations/20220311212600_Initial.cs" Line="27" Column="22" />
+      <File FileName="Mission7/Models/Books.cs" Line="17" Column="24" />
+      <File FileName="Mission7/Models/Purchase.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Mission7" expanded="True">
             <Node name="Mission7" expanded="True">
-              <Node name="Migrations" expanded="True">
-                <Node name="20220311212600_Initial.cs" selected="True" />
+              <Node name="Components" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="Purchase.cs" selected="True" />
+              </Node>
+              <Node name="Pages" expanded="True">
+                <Node name="Admin" expanded="True" />
+              </Node>
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+                <Node name="Purchase" expanded="True" />
+                <Node name="Shared" expanded="True">
+                  <Node name="Components" expanded="True">
+                    <Node name="ShoppingCartSummary" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="img" expanded="True" />
+                <Node name="js" expanded="True" />
+                <Node name="lib" expanded="True">
+                  <Node name="bootstrap" expanded="True">
+                    <Node name="dist" expanded="True">
+                      <Node name="css" expanded="True" />
+                    </Node>
+                  </Node>
+                </Node>
               </Node>
             </Node>
           </Node>

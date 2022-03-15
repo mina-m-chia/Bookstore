@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DTae7mN5RV7fI/+uaU45F2Iz1FClmLtQmhVTClrPu8Pzov8iXl5g7ig3CrqhLpfoxES3x/bQPfpQqkkA9Of+mg==",
+  "dgSpecHash": "H3dj5s1pm6zNdFlBKSKC2ASgeQfhCyKbcf/3I8wt0fs7EcP8KXiiJgdB4KxcpRGT1NpwkeXrT+9lyTsr31QGxg==",
   "success": true,
-  "projectFilePath": "/Users/minachia/Downloads/Mission7-Mission8/Mission7/Mission7.csproj",
+  "projectFilePath": "/Users/minachia/Documents/GitHub/Bookstore/Mission7/Mission7.csproj",
   "expectedPackageFiles": [
     "/Users/minachia/.nuget/packages/bootstrap/3.0.1/bootstrap.3.0.1.nupkg.sha512",
     "/Users/minachia/.nuget/packages/jquery/1.9.0/jquery.1.9.0.nupkg.sha512",

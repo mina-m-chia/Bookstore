@@ -26,6 +26,7 @@
     <None Remove="Views\Shared\Components\" />
     <None Remove="Views\Shared\Components\Types\" />
     <None Remove="Views\Shared\Components\ShoppingCartSummary\" />
+    <None Remove="Pages\Admin\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Models\ViewModels\" />
@@ -35,5 +36,6 @@
     <Folder Include="Views\Shared\Components\" />
     <Folder Include="Views\Shared\Components\Types\" />
     <Folder Include="Views\Shared\Components\ShoppingCartSummary\" />
+    <Folder Include="Pages\Admin\" />
   </ItemGroup>
 </Project>

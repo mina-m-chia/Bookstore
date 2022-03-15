@@ -1,8 +1,11 @@
 ﻿<Properties StartupConfiguration="{A4C038C7-6503-412C-9C7F-98B5921AE46A}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Mission7/Models/Purchase.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Mission7/Pages/Admin/AdminLayout.razor">
     <Files>
       <File FileName="Mission7/Models/Books.cs" Line="17" Column="24" />
       <File FileName="Mission7/Models/Purchase.cs" Line="1" Column="1" />
+      <File FileName="Mission7/Pages/Admin/Details.razor" Line="1" Column="1" />
+      <File FileName="Mission7/Pages/Admin/Editor.razor" Line="1" Column="1" />
+      <File FileName="Mission7/Pages/Admin/AdminLayout.razor" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -10,11 +13,11 @@
           <Node name="Mission7" expanded="True">
             <Node name="Mission7" expanded="True">
               <Node name="Components" expanded="True" />
-              <Node name="Models" expanded="True">
-                <Node name="Purchase.cs" selected="True" />
-              </Node>
+              <Node name="Models" expanded="True" />
               <Node name="Pages" expanded="True">
-                <Node name="Admin" expanded="True" />
+                <Node name="Admin" expanded="True">
+                  <Node name="AdminLayout.razor" selected="True" />
+                </Node>
               </Node>
               <Node name="Views" expanded="True">
                 <Node name="Home" expanded="True" />

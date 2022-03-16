@@ -15,6 +15,7 @@
       <PrivateAssets>all</PrivateAssets>
     </PackageReference>
     <PackageReference Include="Twitter.Bootstrap" Version="3.0.1.1" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="3.1.22" />
   </ItemGroup>
 
   <ItemGroup>
@@ -27,6 +28,8 @@
     <None Remove="Views\Shared\Components\Types\" />
     <None Remove="Views\Shared\Components\ShoppingCartSummary\" />
     <None Remove="Pages\Admin\" />
+    <None Remove="Microsoft.AspNetCore.Identity.EntityFrameworkCore" />
+    <None Remove="Views\Account\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Models\ViewModels\" />
@@ -37,5 +40,6 @@
     <Folder Include="Views\Shared\Components\Types\" />
     <Folder Include="Views\Shared\Components\ShoppingCartSummary\" />
     <Folder Include="Pages\Admin\" />
+    <Folder Include="Views\Account\" />
   </ItemGroup>
 </Project>

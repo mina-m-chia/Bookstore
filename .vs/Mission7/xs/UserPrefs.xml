@@ -1,42 +1,26 @@
 ﻿<Properties StartupConfiguration="{A4C038C7-6503-412C-9C7F-98B5921AE46A}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Mission7/Pages/Admin/AdminLayout.razor">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Mission7/Views/Shared/_Layout.cshtml">
     <Files>
-      <File FileName="Mission7/Models/Books.cs" Line="17" Column="24" />
-      <File FileName="Mission7/Models/Purchase.cs" Line="1" Column="1" />
-      <File FileName="Mission7/Pages/Admin/Details.razor" Line="1" Column="1" />
-      <File FileName="Mission7/Pages/Admin/Editor.razor" Line="1" Column="1" />
-      <File FileName="Mission7/Pages/Admin/AdminLayout.razor" Line="1" Column="1" />
+      <File FileName="Mission7/Pages/Admin/Editor.razor" />
+      <File FileName="Mission7/Pages/Admin/AdminLayout.razor" Line="35" Column="18" />
+      <File FileName="Mission7/appsettings.json" />
+      <File FileName="Mission7/Startup.cs" />
+      <File FileName="Mission7/Models/AppIdentityDBContext.cs" Line="8" Column="65" />
+      <File FileName="Mission7/Models/LoginModel.cs" />
+      <File FileName="Mission7/Views/Home/Index.cshtml" />
+      <File FileName="Mission7/Pages/Admin/Index.cshtml" Line="23" Column="7" />
+      <File FileName="Mission7/wwwroot/lib/bootstrap/dist/css/bootstrap.css" Line="5686" Column="2" />
+      <File FileName="Mission7/Pages/Admin/OrderTable.razor" Line="1" Column="44" />
+      <File FileName="Mission7/Views/Shared/_Layout.cshtml" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Mission7" expanded="True">
             <Node name="Mission7" expanded="True">
-              <Node name="Components" expanded="True" />
-              <Node name="Models" expanded="True" />
-              <Node name="Pages" expanded="True">
-                <Node name="Admin" expanded="True">
-                  <Node name="AdminLayout.razor" selected="True" />
-                </Node>
-              </Node>
               <Node name="Views" expanded="True">
-                <Node name="Home" expanded="True" />
-                <Node name="Purchase" expanded="True" />
                 <Node name="Shared" expanded="True">
-                  <Node name="Components" expanded="True">
-                    <Node name="ShoppingCartSummary" expanded="True" />
-                  </Node>
-                </Node>
-              </Node>
-              <Node name="wwwroot" expanded="True">
-                <Node name="img" expanded="True" />
-                <Node name="js" expanded="True" />
-                <Node name="lib" expanded="True">
-                  <Node name="bootstrap" expanded="True">
-                    <Node name="dist" expanded="True">
-                      <Node name="css" expanded="True" />
-                    </Node>
-                  </Node>
+                  <Node name="_Layout.cshtml" selected="True" />
                 </Node>
               </Node>
             </Node>

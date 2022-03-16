@@ -342,3 +342,9 @@
 /Users/minachia/Documents/GitHub/Bookstore/Mission7/obj/Debug/netcoreapp3.1/Mission7.pdb
 /Users/minachia/Documents/GitHub/Bookstore/Mission7/obj/Debug/netcoreapp3.1/Mission7.genruntimeconfig.cache
 /Users/minachia/Documents/GitHub/Bookstore/Mission7/obj/Debug/netcoreapp3.1/Mission7.csproj.AssemblyReference.cache
+/Users/minachia/Documents/GitHub/Bookstore/Mission7/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/minachia/Documents/GitHub/Bookstore/Mission7/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/minachia/Documents/GitHub/Bookstore/Mission7/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/minachia/Documents/GitHub/Bookstore/Mission7/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Identity.Core.dll
+/Users/minachia/Documents/GitHub/Bookstore/Mission7/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Identity.Stores.dll
+/Users/minachia/Documents/GitHub/Bookstore/Mission7/obj/Debug/netcoreapp3.1/Razor/Views/Account/Login.cshtml.g.cs

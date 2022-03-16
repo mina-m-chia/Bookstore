@@ -63,7 +63,7 @@ using Mission7.Models;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 78 "/Users/minachia/Documents/GitHub/Bookstore/Mission7/Pages/Admin/Editor.razor"
+#line 79 "/Users/minachia/Documents/GitHub/Bookstore/Mission7/Pages/Admin/Editor.razor"
        
 
     [Parameter]

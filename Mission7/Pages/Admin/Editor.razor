@@ -20,52 +20,53 @@
     <div class="form-group">
         <label>Title:</label>
         <ValidationMessage For="@(() => b.Title)"></ValidationMessage>
-        <InputText class="form_control" @bind-Value="b.Title"></InputText>
+        <!--Boostrap Extra #4: Placeholder-->
+        <InputText class="form-control" @bind-Value="b.Title" placeholder="Title Required"></InputText>
     </div>
 
     <div class="form-group">
         <label>Author:</label>
         <ValidationMessage For="@(() => b.Author)"></ValidationMessage>
-        <InputText class="form_control" @bind-Value="b.Author"></InputText>
+        <InputText class="form-control" @bind-Value="b.Author"></InputText>
     </div>
 
     <div class="form-group">
         <label>Publisher:</label>
         <ValidationMessage For="@(() => b.Publisher)"></ValidationMessage>
-        <InputText class="form_control" @bind-Value="b.Publisher"></InputText>
+        <InputText class="form-control" @bind-Value="b.Publisher"></InputText>
     </div>
 
     <div class="form-group">
         <label>ISBN:</label>
         <ValidationMessage For="@(() => b.Isbn)"></ValidationMessage>
-        <InputText class="form_control" @bind-Value="b.Isbn"></InputText>
+        <InputText class="form-control" @bind-Value="b.Isbn"></InputText>
     </div>
 
     <div class="form-group">
         <label>Classification:</label>
         <ValidationMessage For="@(() => b.Classification)"></ValidationMessage>
-        <InputText class="form_control" @bind-Value="b.Classification"></InputText>
+        <InputText class="form-control" @bind-Value="b.Classification"></InputText>
     </div>
 
     <div class="form-group">
         <label>Category:</label>
         <ValidationMessage For="@(() => b.Category)"></ValidationMessage>
-        <InputText class="form_control" @bind-Value="b.Category"></InputText>
+        <InputText class="form-control" @bind-Value="b.Category"></InputText>
     </div>
 
     <div class="form-group">
         <label>Page Count:</label>
         <ValidationMessage For="@(() => b.PageCount)"></ValidationMessage>
-        <InputNumber class="form_control" @bind-Value="b.PageCount"></InputNumber>
+        <InputNumber class="form-control" @bind-Value="b.PageCount"></InputNumber>
     </div>
 
     <div class="form-group">
         <label>Price:</label>
         <ValidationMessage For="@(() => b.Price)"></ValidationMessage>
-        <div class="input-prepend">
+        <div class="input-prepend form-control">
             <!--Bootstrap Extra #1-->
             <span class="add-on">$</span>
-            <InputNumber class="form_control" @bind-Value="b.Price"></InputNumber>
+            <InputNumber @bind-Value="b.Price"></InputNumber>
         </div>
 
     </div>
